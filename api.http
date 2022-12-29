@@ -1,0 +1,10 @@
+
+Get http://localhost:8000/api/v1/products
+
+###
+Post http://localhost:8000/api/v1/products
+Content-Type: application/json
+
+{
+  "name":"Movie"
+}
